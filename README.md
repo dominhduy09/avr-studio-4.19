@@ -1,7 +1,7 @@
 # avr-studio-4.19
 Compiler for programming Atmega models | avr-studio-4.19 
 
-```bash
+```
 tutorial
 ```
 
@@ -11,6 +11,5 @@ tutorial
 - AVR studio: https://drive.google.com/file/d/1xbGcmtCA6jSrG9X-WagFf3Ijsqq-erof/view?usp=sharing
 - WinAVR-20100110-install: https://drive.google.com/file/d/1x3v1GE-BtMtXhwboPx63xHpu3oJ-JPot/view?usp=sharing
 
-!hint : extract  msys-1.0.dll  file and copy replace in folder (if making any errors)
-C:\WinAVR-20100110\utils\bin
+!hint : extract  msys-1.0.dll  file and copy replace in folder --> C:\WinAVR-20100110\utils\bin (if making any errors)
 
