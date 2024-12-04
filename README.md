@@ -1,4 +1,5 @@
 # avr-studio-4.19
+**Avr Studio 4.19 easy installing**
 Compiler for programming Atmega models | avr-studio-4.19 
 
 ```
@@ -13,3 +14,6 @@ tutorial
 
 !hint : extract  msys-1.0.dll  file and copy replace in folder --> C:\WinAVR-20100110\utils\bin (if making any errors)
 
+> References:
+- https://www.hocavr.com/2018/06/assembly-cho-avr.html
+- https://nicerland.com/atmega32/
